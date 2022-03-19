@@ -14,6 +14,6 @@ wil15178@byui.edu
 
 
 
-[Stack]: <http://#>
-[Set]: <http://#>
-[Tree]: <http://#>
+[Stack]: <https://github.com/trevormw20/CSE-212-Final-Project/blob/master/stack.md>
+[Set]: <https://github.com/trevormw20/CSE-212-Final-Project/blob/master/set.md>
+[Tree]: <https://github.com/trevormw20/CSE-212-Final-Project/blob/master/tree.md>

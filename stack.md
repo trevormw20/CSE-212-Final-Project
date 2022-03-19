@@ -84,5 +84,5 @@ stack = [9, 3, 6, 9, 2, 1, 1]
 You can check your code with the solution here: [Solution]
 #### [Return to Welcome page]
 
-[Solution]: <http://#>
-[Return to Welcome page]: <http://#>
+[Solution]: <https://github.com/trevormw20/CSE-212-Final-Project/blob/master/stackSolution.py>
+[Return to Welcome page]: <https://github.com/trevormw20/CSE-212-Final-Project/blob/master/Welcome.md>
