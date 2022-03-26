@@ -104,6 +104,8 @@ second_set = {"goose", "turtle", "chicken", "unicorn", "pig", "cow", "fox"}
 print(first_set)   #resulting in {"dragon", "drake", "minotaur", "horse"} in any order
 print(second_set)   #resulting in {"goose", "chicken", "pig", "cow", "fox"} in any order
 ```
+You can check your code with the solution here: [Solution]
+#### [Return to Welcome page]
 
 [Solution]: <https://github.com/trevormw20/CSE-212-Final-Project/blob/master/setSolution.py>
 [Return to Welcome page]: <https://github.com/trevormw20/CSE-212-Final-Project/blob/master/Welcome.md>
