@@ -2,16 +2,24 @@
 ___
 A Python stack is a data structure that is based on the principle of last in first out (LIFO). In a stack when an item is added. It is only added to the end of the stack. As well as when you remove an item, is is only removed from the end.
 
+<br>
+
 ### Push
 This will add the item to the back of the stack array.
 ```sh
 stack.append(value)
 ```
+
+<br>
+
 ### Pop
 Pop(value) will remove the last item of the stack array.
 ```sh
 stack.pop()
 ```
+
+<br>
+
 ### Size
 SizeChecks for the size of the stack. When doing so you can compare stacks,
 run loops with the size of the stack and check to see if the stack has a 
@@ -19,6 +27,9 @@ specific number of items in the array.
 ```sh
 len(stack)
 ```
+
+<br>
+
 ### Empty
 Is important to check to see if a stack is empty and prevent an 
 error of checking for a specific item if the stack is empty.
@@ -26,11 +37,15 @@ error of checking for a specific item if the stack is empty.
 len(stack) == 0
 ```
 
+<br>
+
 ### Top
 Returns the reference to the top most item in the stack.
 ```sh
 stack.top()
 ```
+
+<br>
 
 ### Example
 Create an empty stack.
